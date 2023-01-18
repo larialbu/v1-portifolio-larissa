@@ -354,7 +354,7 @@ section .title::after{
     color:    #3f1f9c;
 }
 .teams .title::after{
-    content: "Especializada";
+    content: "Tech";
 }
 .teams .carousel .card{
     background: #222;
